@@ -6,7 +6,7 @@
     display: grid;
     grid-template-columns: repeat(40, 1fr);
     grid-template-rows: repeat(40, 1fr);
-    margin: auto;
+/*     margin: auto; */
 }
   
 .snakeBodyPixel {
