@@ -1,8 +1,8 @@
 /* Define styles for game elements */
 #gameContainer {
-    background-color: black;
-    width: 400px;
-    height: 400px;
+    width: 400px !important;
+    height: 400px !important;
+	background-color: black;
     display: grid;
     grid-template-columns: repeat(40, 1fr);
     grid-template-rows: repeat(40, 1fr);
