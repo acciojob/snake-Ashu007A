@@ -1,8 +1,6 @@
-//your code here
-
 // Get the game container element
 const gameContainer = document.getElementById('gameContainer');
-const scoreElement = document.getElementById('score');
+const scoreElement = document.getElementById('pointsEarned');
 let score = 0;
 
 // Snake variables
